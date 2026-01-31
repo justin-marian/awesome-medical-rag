@@ -21,7 +21,7 @@
 > [!NOTE]
 > **How to Navigate**
 >
-> We have organized the research taxonomically to help you find exactly what you need:
+> Oganized based on the research taxonomically to help you find exactly what you need:
 > * **By Method:** Looking for *GraphRAG*, *PEFT*, or *Visual QA*?
 > * **By Domain:** Interested in *Mental Health*, *Legal*, or *Finance*?
 >
@@ -297,7 +297,7 @@
 
 This repository chronicles a pivotal shift in Medical AI from static **Information Retrieval** to dynamic **Clinical Reasoning**. As the field matures, three defining paradigms are emerging:
 
-* **The Agentic Shift:** We are moving beyond passive chatbots to proactive **Copilots**. Systems like *MedAgents* and *Dr. Copilot* demonstrate that the future lies in LLMs that can plan, self-correct, and execute multi-step diagnostic workflows.
+* **The Agentic Shift:** Moving beyond passive chatbots to proactive **Copilots**. Systems like *MedAgents* and *Dr. Copilot* demonstrate that the future lies in LLMs that can plan, self-correct, and execute multi-step diagnostic workflows.
 * **Multimodal Synergy:** True clinical understanding requires seeing as well as reading. The next generation of models achieves **Multimodal Fluency**, seamlessly synthesizing pixel-level evidence (X-rays, Pathology) with textual knowledge (Guidelines, EHRs).
 * **Democratization & Safety:** As capabilities scale, so must responsibility. The focus is pivoting toward **Privacy-Preserving RAG** and **Linguistic Equity**, ensuring that life-saving AI is robust, compliant, and accessible across all languages from English to Amharic.
 
