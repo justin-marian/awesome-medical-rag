@@ -1,29 +1,37 @@
 <div align="center">
 
-# :hospital: Awesome Medical & Multilingual QA/RAG Research Papers
+# :hospital: Awesome Medical & Multilingual <br> QA/RAG Research Papers
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/repo)
-[![GitHub stars](https://img.shields.io/github/stars/justin-marian/awesome-medical-rag?style=flat&color=yellow)](https://github.com/justin-marian/awesome-medical-rag/stargazers) [![GitHub forks](https://img.shields.io/github/forks/justin-marian/awesome-medical-rag?style=flat&color=orange)](https://github.com/justin-marian/awesome-medical-rag/network) [![GitHub issues](https://img.shields.io/github/issues/justin-marian/awesome-medical-rag)](https://github.com/justin-marian/awesome-medical-rag/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/justin-marian/awesome-medical-rag)](https://github.com/justin-marian/awesome-medical-rag/commits/main) [![GitHub contributors](https://img.shields.io/github/contributors/justin-marian/awesome-medical-rag)](https://github.com/justin-marian/awesome-medical-rag/graphs/contributors)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/justin-marian/awesome-medical-rag) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+[![GitHub stars](https://img.shields.io/github/stars/justin-marian/awesome-medical-rag?style=flat&color=yellow&label=Stars)](https://github.com/justin-marian/awesome-medical-rag/stargazers) [![GitHub forks](https://img.shields.io/github/forks/justin-marian/awesome-medical-rag?style=flat&color=orange&label=Forks)](https://github.com/justin-marian/awesome-medical-rag/network) [![GitHub watchers](https://img.shields.io/github/watchers/justin-marian/awesome-medical-rag?style=flat&label=Watchers)](https://github.com/justin-marian/awesome-medical-rag/watchers) [![GitHub last commit](https://img.shields.io/github/last-commit/justin-marian/awesome-medical-rag?color=blue&label=Last%20Update)](https://github.com/justin-marian/awesome-medical-rag/commits/main) [![GitHub issues](https://img.shields.io/github/issues/justin-marian/awesome-medical-rag?color=red)](https://github.com/justin-marian/awesome-medical-rag/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/justin-marian/awesome-medical-rag?color=purple)](https://github.com/justin-marian/awesome-medical-rag/pulls) [![GitHub contributors](https://img.shields.io/github/contributors/justin-marian/awesome-medical-rag?color=teal)](https://github.com/justin-marian/awesome-medical-rag/graphs/contributors)
 
 </div>
 
+<br>
+
 > [!TIP]
-> **Your Central Hub for Healthcare AI Research**
+> **The Definitive Knowledge Hub for Medical AI**
 >
-> This repository is a comprehensive, curated collection of **200+** seminal papers, state-of-the-art benchmarks, and datasets. It focuses on the intersection of **Medical Question Answering**, **Retrieval-Augmented Generation (RAG)**, **Knowledge Graphs (KG)**, and **Multilingual Large Language Models (LLMs)**.
->
-> *Goal: To bridge the gap between structured medical knowledge and generative reasoning across diverse languages.*
+> Welcome to a meticulously curated collection of **200+** research papers, datasets, and benchmarks. This repository bridges the gap between **Structured Medical Knowledge** (Knowledge Graphs) and **Generative Reasoning** (LLMs), focusing on:
+> * **Retrieval-Augmented Generation (RAG):** Techniques to ground AI in factual clinical data.
+> * **Multilingual Equity:** Ensuring medical AI works across diverse languages and cultures.
+> * **Complex Reasoning:** Moving from simple Q&A to multi-hop clinical decision support.
 
 > [!NOTE]
-> **Navigation Guide**
+> **How to Navigate**
 >
-> The research is taxonomically organized by **Methodology** (e.g., RAG, KG Reasoning) and **Domain Application** (e.g., Mental Health, Legal, Finance). Use the [**Table of Contents**](#-table-of-contents) below to fast-track to your specific area of interest.
+> We have organized the research taxonomically to help you find exactly what you need:
+> * **By Method:** Looking for *GraphRAG*, *PEFT*, or *Visual QA*?
+> * **By Domain:** Interested in *Mental Health*, *Legal*, or *Finance*?
+>
+> Use the [**Table of Contents**](#-table-of-contents) below to jump straight to your area of interest.
 
 ---
 
 ## :scroll: Table of Contents
 
-- [:hospital: Awesome Medical \& Multilingual QA/RAG Research Papers](#hospital-awesome-medical--multilingual-qarag-research-papers)
+- [:hospital: Awesome Medical \& Multilingual  QA/RAG Research Papers](#hospital-awesome-medical--multilingual--qarag-research-papers)
   - [:scroll: Table of Contents](#scroll-table-of-contents)
   - [:dna: Medical \& Clinical LLMs](#dna-medical--clinical-llms)
   - [:books: Multilingual \& Cross-Lingual QA](#books-multilingual--cross-lingual-qa)
