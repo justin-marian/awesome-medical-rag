@@ -300,3 +300,13 @@ This repository chronicles a pivotal shift in Medical AI from static **Informati
 * **The Agentic Shift:** We are moving beyond passive chatbots to proactive **Copilots**. Systems like *MedAgents* and *Dr. Copilot* demonstrate that the future lies in LLMs that can plan, self-correct, and execute multi-step diagnostic workflows.
 * **Multimodal Synergy:** True clinical understanding requires seeing as well as reading. The next generation of models achieves **Multimodal Fluency**, seamlessly synthesizing pixel-level evidence (X-rays, Pathology) with textual knowledge (Guidelines, EHRs).
 * **Democratization & Safety:** As capabilities scale, so must responsibility. The focus is pivoting toward **Privacy-Preserving RAG** and **Linguistic Equity**, ensuring that life-saving AI is robust, compliant, and accessible across all languages from English to Amharic.
+
+---
+
+<div align="center">
+
+This repository is licensed under the **[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)**, granting you the freedom to share and adapt this work for any purpose even commercially as long as you provide appropriate credit to the original research paper authors.
+
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+</div>
