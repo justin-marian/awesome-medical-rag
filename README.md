@@ -10,7 +10,7 @@
 
 [![Medical RAG](https://img.shields.io/badge/Medical%20RAG-Evidence%20Grounded-critical)](#magnet-rag--retrieval-systems) [![GraphRAG](https://img.shields.io/badge/GraphRAG-Knowledge%20Graphs-6f42c1)](#medical-graphrag--kg-enhanced-rag) [![Multilingual](https://img.shields.io/badge/Multilingual-Healthcare%20QA-008080)](#books-multilingual--cross-lingual-qa) [![Clinical Safety](https://img.shields.io/badge/Safety-Clinical%20Guardrails-success)](#reliability-safety--evaluation)
 
-⭐ **Star this repository if you use Medical RAG, GraphRAG, clinical QA, biomedical retrieval, or multilingual health AI.**
+⭐ **Star this repository if you use Medical RAG, GraphRAG, clinical QA, biomedical retrieval, or multilingual AI.**
 
 </div>
 
