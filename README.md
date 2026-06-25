@@ -2,9 +2,15 @@
 
 # :hospital: Awesome Medical & Multilingual <br> QA/RAG Research Papers
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/justin-marian/awesome-medical-rag) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://www.markdownguide.org/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
-[![GitHub stars](https://img.shields.io/github/stars/justin-marian/awesome-medical-rag?style=flat&color=yellow&label=Stars)](https://github.com/justin-marian/awesome-medical-rag/stargazers) [![GitHub forks](https://img.shields.io/github/forks/justin-marian/awesome-medical-rag?style=flat&color=orange&label=Forks)](https://github.com/justin-marian/awesome-medical-rag/network) [![GitHub watchers](https://img.shields.io/github/watchers/justin-marian/awesome-medical-rag?style=flat&label=Watchers)](https://github.com/justin-marian/awesome-medical-rag/watchers) [![GitHub last commit](https://img.shields.io/github/last-commit/justin-marian/awesome-medical-rag?color=blue&label=Last%20Update)](https://github.com/justin-marian/awesome-medical-rag/commits/main) [![GitHub issues](https://img.shields.io/github/issues/justin-marian/awesome-medical-rag?color=red)](https://github.com/justin-marian/awesome-medical-rag/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/justin-marian/awesome-medical-rag?color=purple)](https://github.com/justin-marian/awesome-medical-rag/pulls) [![GitHub contributors](https://img.shields.io/github/contributors/justin-marian/awesome-medical-rag?color=teal)](https://github.com/justin-marian/awesome-medical-rag/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/justin-marian/awesome-medical-rag?style=flat&color=yellow&label=Stars)](https://github.com/justin-marian/awesome-medical-rag/stargazers) [![GitHub forks](https://img.shields.io/github/forks/justin-marian/awesome-medical-rag?style=flat&color=orange&label=Forks)](https://github.com/justin-marian/awesome-medical-rag/network) [![GitHub watchers](https://img.shields.io/github/watchers/justin-marian/awesome-medical-rag?style=flat&label=Watchers)](https://github.com/justin-marian/awesome-medical-rag/watchers) [![GitHub last commit](https://img.shields.io/github/last-commit/justin-marian/awesome-medical-rag?color=blue&label=Last%20Update)](https://github.com/justin-marian/awesome-medical-rag/commits/main) [![Commit activity](https://img.shields.io/github/commit-activity/m/justin-marian/awesome-medical-rag?color=informational&label=Activity)](https://github.com/justin-marian/awesome-medical-rag/pulse) [![Repo size](https://img.shields.io/github/repo-size/justin-marian/awesome-medical-rag?color=blueviolet&label=Repo%20Size)](https://github.com/justin-marian/awesome-medical-rag)
+
+[![GitHub issues](https://img.shields.io/github/issues/justin-marian/awesome-medical-rag?color=red&label=Issues)](https://github.com/justin-marian/awesome-medical-rag/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/justin-marian/awesome-medical-rag?color=purple&label=PRs)](https://github.com/justin-marian/awesome-medical-rag/pulls) [![GitHub contributors](https://img.shields.io/github/contributors/justin-marian/awesome-medical-rag?color=teal&label=Contributors)](https://github.com/justin-marian/awesome-medical-rag/graphs/contributors) [![Curated Papers](https://img.shields.io/badge/Papers-250%2B-blue)](#scroll-table-of-contents) [![Last Curated](https://img.shields.io/badge/Last%20Curated-2026--06-0aa)](#telescope-future-horizons)
+
+[![Medical RAG](https://img.shields.io/badge/Medical%20RAG-Evidence%20Grounded-critical)](#magnet-rag--retrieval-systems) [![GraphRAG](https://img.shields.io/badge/GraphRAG-Knowledge%20Graphs-6f42c1)](#medical-graphrag--kg-enhanced-rag) [![Multilingual](https://img.shields.io/badge/Multilingual-Healthcare%20QA-008080)](#books-multilingual--cross-lingual-qa) [![Clinical Safety](https://img.shields.io/badge/Safety-Clinical%20Guardrails-success)](#reliability-safety--evaluation) [![Benchmarks](https://img.shields.io/badge/Benchmarks-MIRAGE%20%7C%20MRAG%20%7C%20MedRGB-blue)](#medical-rag-surveys-benchmarks--toolkits)
+
+⭐ **Star this repository if you use Medical RAG, GraphRAG, clinical QA, biomedical retrieval, or multilingual health AI.**
 
 </div>
 
@@ -13,7 +19,7 @@
 > [!TIP]
 > **The Definitive Knowledge Hub for Medical AI**
 >
-> Welcome to a meticulously curated collection of **200+** research papers, datasets, and benchmarks. This repository bridges the gap between **Structured Medical Knowledge** (Knowledge Graphs) and **Generative Reasoning** (LLMs), focusing on:
+> Welcome to a meticulously curated collection of **250+** research papers, datasets, and benchmarks. This repository bridges the gap between **Structured Medical Knowledge** (Knowledge Graphs) and **Generative Reasoning** (LLMs), focusing on:
 > * **Retrieval-Augmented Generation (RAG):** Techniques to ground AI in factual clinical data.
 > * **Multilingual Equity:** Ensuring medical AI works across diverse languages and cultures.
 > * **Complex Reasoning:** Moving from simple Q&A to multi-hop clinical decision support.
@@ -21,7 +27,7 @@
 > [!NOTE]
 > **How to Navigate**
 >
-> Oganized based on the research taxonomically to help you find exactly what you need:
+> Organized taxonomically to help you find exactly what you need:
 > * **By Method:** Looking for *GraphRAG*, *PEFT*, or *Visual QA*?
 > * **By Domain:** Interested in *Mental Health*, *Legal*, or *Finance*?
 >
@@ -31,16 +37,43 @@
 
 ## :scroll: Table of Contents
 
-- [:hospital: Awesome Medical \& Multilingual  QA/RAG Research Papers](#hospital-awesome-medical--multilingual--qarag-research-papers)
+- [:hospital: Awesome Medical \& Multilingual QA/RAG Research Papers](#hospital-awesome-medical--multilingual--qarag-research-papers)
   - [:scroll: Table of Contents](#scroll-table-of-contents)
+  - [:compass: Research Map](#compass-research-map)
   - [:dna: Medical \& Clinical LLMs](#dna-medical--clinical-llms)
   - [:books: Multilingual \& Cross-Lingual QA](#books-multilingual--cross-lingual-qa)
   - [:link: Knowledge Graphs \& Reasoning](#link-knowledge-graphs--reasoning)
   - [:magnet: RAG \& Retrieval Systems](#magnet-rag--retrieval-systems)
+    - [Medical RAG Surveys, Benchmarks \& Toolkits](#medical-rag-surveys-benchmarks--toolkits)
+    - [Medical GraphRAG \& KG-Enhanced RAG](#medical-graphrag--kg-enhanced-rag)
+    - [Clinical, EHR \& Patient-Specific RAG](#clinical-ehr--patient-specific-rag)
+    - [Reliability, Safety \& Evaluation](#reliability-safety--evaluation)
+    - [Retrieval Optimization \& General RAG Methods](#retrieval-optimization--general-rag-methods)
   - [:brain: Specialized Domains (Mental Health, Finance, Legal)](#brain-specialized-domains-mental-health-finance-legal)
   - [:trophy: Benchmarks \& Datasets](#trophy-benchmarks--datasets)
   - [:camera: Multimodal \& Visual QA](#camera-multimodal--visual-qa)
   - [:telescope: Future Horizons](#telescope-future-horizons)
+
+
+---
+
+## :compass: Research Map
+
+> [!IMPORTANT]
+> **Recommended Reading Path for Medical RAG**
+>
+> Start with the survey and benchmark papers, then move to GraphRAG/KG-enhanced systems, then clinical/EHR RAG, and finally safety-focused evaluation. This makes the list easier to scan for newcomers and more useful for researchers comparing medical RAG pipelines.
+
+| Track | Best Starting Points | Why It Matters |
+| :--- | :--- | :--- |
+| **Medical RAG Foundations** | MIRAGE / MedRAG Toolkit, RAG in Biomedicine Survey, MRAG | Gives a practical baseline for corpora, retrievers, prompting, and evaluation. |
+| **GraphRAG & Knowledge Graphs** | Medical Graph RAG, MedRAG, KG-Rank, KRAGEN, DR.KNOWS | Adds structured biomedical relations, path reasoning, and explainable evidence. |
+| **Clinical & EHR RAG** | RGAR, i-MedRAG, ClinicalRAG, MedBioRAG | Connects retrieved literature with patient-specific or clinical-context evidence. |
+| **Safety & Trustworthiness** | RAG², RAG-X, Contradictions in Context, MedRGB | Measures grounding, context use, outdated evidence, and deceptive accuracy. |
+| **Multilingual & Multimodal RAG** | Medical mT5, Japanese KG-RAG, MED-VRAG, EHRXQA | Extends medical QA beyond English text-only retrieval. |
+
+> [!TIP]
+> **For more GitHub stars:** keep the first screen attractive, add fresh 2025-2026 papers near the top of each section, label code/dataset/project links clearly, and make it obvious why this list is different from generic RAG lists: **medical safety, multilingual equity, and knowledge-graph grounding**.
 
 ---
 
@@ -53,7 +86,7 @@
 
 | Topic | Full Title | Resources | Notes |
 | :--- | :--- | :--- | :--- |
-| **Medical Adaption** | <small>HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs</small> | [![arXiv](https://img.shields.io/badge/arXiv-2311.09774-b31b1b.svg)](https://arxiv.org/abs/2311.09774) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/FreedomIntelligence/HuatuoGPT-II) [![OpenReview](https://img.shields.io/badge/OpenReview-Link-blue)](https://openreview.net/forum?id=eJ3cHNu7ss) | One-stage training for medical adaption. |
+| **Medical Adaptation** | <small>HuatuoGPT-II, One-stage Training for Medical Adaptation of LLMs</small> | [![arXiv](https://img.shields.io/badge/arXiv-2311.09774-b31b1b.svg)](https://arxiv.org/abs/2311.09774) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/FreedomIntelligence/HuatuoGPT-II) [![OpenReview](https://img.shields.io/badge/OpenReview-Link-blue)](https://openreview.net/forum?id=eJ3cHNu7ss) | One-stage training for medical adaptation. |
 | **QA System** | <small>SPBERTQA: A Two-Stage Question Answering System Based on Sentence Transformers for Medical Texts</small> | [![arXiv](https://img.shields.io/badge/arXiv-2206.09600-b31b1b.svg)](https://arxiv.org/abs/2206.09600) [![Springer](https://img.shields.io/badge/Springer-Link-blue)](https://link.springer.com/chapter/10.1007/978-3-031-10986-7_30) | 2-Stage QA based on Sentence Transformers. |
 | **Medical LLM** | <small>Medical mT5: An Open-Source Multilingual Text-to-Text LLM for The Medical Domain</small> | [![arXiv](https://img.shields.io/badge/arXiv-2404.07613-b31b1b.svg)](https://arxiv.org/abs/2404.07613) [![ACL](https://img.shields.io/badge/ACL-LREC%202024-red)](https://aclanthology.org/2024.lrec-main.974/) [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-orange)](https://huggingface.co/papers/2404.07613) | Multilingual T5 for medical domain. |
 | **Closed-Domain QA** | <small>Large Language Models Encode Clinical Knowledge (Med-PaLM)</small> | [![Nature](https://img.shields.io/badge/Journal-Nature-blue)](https://www.nature.com/articles/s41586-023-06291-2) [![arXiv](https://img.shields.io/badge/arXiv-2212.13138-b31b1b.svg)](https://arxiv.org/abs/2212.13138) | Seminal Med-PaLM paper. |
@@ -206,48 +239,88 @@
 ## :magnet: RAG & Retrieval Systems
 
 > [!TIP]
-> **Augmenting Generation with External Knowledge**
+> **Augmenting Generation with External Medical Knowledge**
 >
-> This section focuses on the critical integration of Retrieval-Augmented Generation (RAG) to mitigate hallucinations and ensure factual consistency. It covers the full lifecycle of RAG development: from **Dynamic Retrieval** and **Re-ranking** strategies to advanced **GraphRAG** implementations. Special emphasis is placed on **Evaluation Frameworks** designed to rigorously measure relevance, faithfulness, and answer credibility.
+> This section focuses on Retrieval-Augmented Generation (RAG) systems that reduce hallucinations, improve clinical grounding, and connect LLMs with biomedical literature, EHRs, guidelines, ontologies, and knowledge graphs. The papers are grouped by use case so readers can quickly compare **survey/benchmark work**, **GraphRAG**, **clinical and EHR retrieval**, **safety evaluation**, and **retrieval optimization**.
+
+> [!WARNING]
+> **Medical RAG is not only retrieval.** Strong systems must also handle outdated evidence, contradictory sources, patient-specific context, citation quality, and clinical safety. Prefer papers that report retrieval quality, answer faithfulness, source attribution, robustness, and human/clinical evaluation.
+
+### Medical RAG Surveys, Benchmarks & Toolkits
 
 | Topic | Full Title | Resources | Notes |
 | :--- | :--- | :--- | :--- |
-| **RAG Evaluation** | <small>Adapting Standard Retrieval Benchmarks to Evaluate Generated Answers</small> | [![arXiv](https://img.shields.io/badge/arXiv-2401.04842-b31b1b.svg)](https://arxiv.org/abs/2401.04842) [![Springer](https://img.shields.io/badge/Springer-Link-blue)](https://link.springer.com/chapter/10.1007/978-3-031-56060-6_26) | Adapting benchmarks for RAG eval. |
-| **RAG Relevance** | <small>DR-RAG: Applying Dynamic Document Relevance to Retrieval-Augmented Generation</small> | [![arXiv](https://img.shields.io/badge/arXiv-2406.07348-b31b1b.svg)](https://arxiv.org/abs/2406.07348) | Dynamic document relevance. |
-| **RAG Chatbots** | <small>Automated Question-Answer Generation for Evaluating RAG-based Chatbots</small> | [![ACL](https://img.shields.io/badge/ACL-CL4Health-red)](https://aclanthology.org/2024.cl4health-1.25/) | Auto QA generation for evaluation. |
-| **RAG Queries** | <small>RichRAG: Crafting Rich Responses for Multi-faceted Queries in RAG</small> | [![ACL](https://img.shields.io/badge/ACL-COLING-red)](https://aclanthology.org/2025.coling-main.750/) [![arXiv](https://img.shields.io/badge/arXiv-2406.12566-b31b1b.svg)](https://arxiv.org/abs/2406.12566) | Handling multi-faceted queries. |
-| **RAG Eval** | <small>Know Your RAG: Dataset Taxonomy and Generation Strategies for Evaluating RAG Systems</small> | [![arXiv](https://img.shields.io/badge/arXiv-2411.19710-b31b1b.svg)](https://arxiv.org/abs/2411.19710) | Taxonomy for RAG eval. |
-| **Clinical RAG** | <small>ClinicalRAG: Enhancing Clinical Decision Support through Heterogeneous Knowledge Retrieval</small> | [![ACL](https://img.shields.io/badge/ACL-KnowLLM-red)](https://aclanthology.org/2024.knowllm-1.6/) | Heterogeneous retrieval for CDS. |
-| **RAG Practices** | <small>Enhancing Retrieval-Augmented Generation: A Study of Best Practices</small> | [![arXiv](https://img.shields.io/badge/arXiv-2501.07391-b31b1b.svg)](https://arxiv.org/abs/2501.07391) | Study of RAG best practices. |
-| **RAG Credibility** | <small>How Credible Is an Answer From Retrieval-Augmented LLMs?</small> | [![ACL](https://img.shields.io/badge/ACL-COLING-red)](https://aclanthology.org/2025.coling-main.285/) | Credibility in Multi-Hop QA. |
-| **Adaptive RAG** | <small>Adaptive-RAG: Learning to Adapt RAG LLMs through Question Complexity</small> | [![ACL](https://img.shields.io/badge/ACL-NAACL-red)](https://aclanthology.org/2024.naacl-long.389/) [![arXiv](https://img.shields.io/badge/arXiv-2403.14403-b31b1b.svg)](https://arxiv.org/abs/2403.14403) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/starsuzi/Adaptive-RAG) | Adapting based on complexity. |
-| **Knowledge Boundary** | <small>Investigating the Factual Knowledge Boundary of LLMs with Retrieval Augmentation</small> | [![ACL](https://img.shields.io/badge/ACL-COLING-red)](https://aclanthology.org/2025.coling-main.250/) [![arXiv](https://img.shields.io/badge/arXiv-2307.11019-b31b1b.svg)](https://arxiv.org/abs/2307.11019) | Factual boundaries in RAG. |
-| **Ranking/Re-ranking** | <small>KG-Rank: Enhancing LLMs for Medical QA with Knowledge Graphs and Ranking Techniques</small> | [![ACL](https://img.shields.io/badge/ACL-BioNLP-red)](https://aclanthology.org/2024.bionlp-1.13/) [![arXiv](https://img.shields.io/badge/arXiv-2403.05881-b31b1b.svg)](https://arxiv.org/abs/2403.05881) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/YangRui525/KG-Rank) | Ranking with KGs. |
-| **RAG Certainty** | <small>RAG Certainty: Quantifying the Certainty of Context-Based Responses by LLMs</small> | [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue)](https://ieeexplore.ieee.org/document/10903445) | RAG Certainty metric. |
-| **Quantization** | <small>4-bit Quantization in Vector-Embedding for RAG</small> | [![arXiv](https://img.shields.io/badge/arXiv-2501.10534-b31b1b.svg)](https://arxiv.org/abs/2501.10534) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/taeheej/4bit-Quantization-in-Vector-Embedding-for-RAG) | 4-bit embedding quantization. |
-| **KG-RAG** | <small>Knowledge Graph-extended Retrieval Augmented Generation (KG-RAG)</small> | [![arXiv](https://img.shields.io/badge/arXiv-2504.08893-b31b1b.svg)](https://arxiv.org/abs/2504.08893) [![Project](https://img.shields.io/badge/Project-Website-blue)](https://dsanmart.github.io/KG-RAG/) | KG extended RAG. |
-| **Unified RAG** | <small>Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Graphs (RoE)</small> | [![arXiv](https://img.shields.io/badge/arXiv-2510.07484-b31b1b.svg)](https://arxiv.org/abs/2510.07484) | Reasoning by Exploration. |
-| **Region-First** | <small>ReGraM: Region-First Knowledge Graph Reasoning for Medical QA</small> | [![arXiv](https://img.shields.io/badge/arXiv-2601.09280-b31b1b.svg)](https://arxiv.org/abs/2601.09280) | Region-first reasoning. |
-| **Dynamic Rank** | <small>DynRank: Improve Passage Retrieval with Dynamic Zero-Shot Prompting</small> | [![ACL](https://img.shields.io/badge/ACL-COLING-red)](https://aclanthology.org/2025.coling-main.319/) [![arXiv](https://img.shields.io/badge/arXiv-2412.00600-b31b1b.svg)](https://arxiv.org/abs/2412.00600) | DynRank. |
-| **Re-Ranking** | <small>ASRank: Zero-Shot Re-Ranking with Answer Scent for Document Retrieval</small> | [![arXiv](https://img.shields.io/badge/arXiv-2501.15245-b31b1b.svg)](https://arxiv.org/abs/2501.15245) | ASRank. |
-| **Low-Resource Retrieval** | <small>Unsupervised Domain Adaptation of Dense Retrieval via Zero-Shot Sim Transfer</small> | [![arXiv](https://img.shields.io/badge/arXiv-2112.07577-b31b1b.svg)](https://arxiv.org/abs/2112.07577) | Unsupervised domain adaptation. |
-| **Passage Expansion** | <small>Knowledge Graph-Guided Retrieval Augmented Generation (KG$^2$RAG)</small> | [![arXiv](https://img.shields.io/badge/arXiv-2502.06864-b31b1b.svg)](https://arxiv.org/abs/2502.06864) | KG for chunk expansion. |
-| **Copilot Reasoning** | <small>MedRAG: Enhancing RAG with KG-Elicited Reasoning for Healthcare Copilot</small> | [![arXiv](https://img.shields.io/badge/arXiv-2502.04413-b31b1b.svg)](https://arxiv.org/abs/2502.04413) [![OpenReview](https://img.shields.io/badge/OpenReview-Link-blue)](https://openreview.net/forum?id=7C6cd95qvH) | MedRAG copilot. |
-| **ConvRAG** | <small>Boosting Conversational Question Answering with Fine-Grained Retrieval-Augmentation</small> | [![arXiv](https://img.shields.io/badge/arXiv-2403.18243-b31b1b.svg)](https://arxiv.org/abs/2403.18243) | Fine-grained retrieval + self-check. |
-| **Nutrigenetics** | <small>A Retrieval-Augmented Generation Application For Question-Answering in Nutrigenetics</small> | [![ResearchGate](https://img.shields.io/badge/ResearchGate-Link-green)](https://www.researchgate.net/publication/383998708_Enhancing_Dietary_Supplement_Question_Answer_via_Retrieval-Augmented_Generation_RAG_with_LLM) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/johndef64/nutrig-graphrag) | Nutrigenetic GraphRAG. |
-| **Reddit RAG** | <small>Two-Layer RAG Framework for Low-Resource Medical QA Using Reddit Data</small> | [![Journal](https://img.shields.io/badge/Journal-JMIR-blue)](https://www.jmir.org/2025/1/e66220) | Reddit-based Medical RAG. |
-| **Query Reformulation** | <small>Semantic Grounding of LLMs Using Knowledge Graphs for Query Reformulation</small> | [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue)](https://ieeexplore.ieee.org/document/10825835) | Semantic grounding. |
-| **TCM GraphRAG** | <small>OpenTCM: A GraphRAG-Empowered LLM-based System for TCM</small> | [![arXiv](https://img.shields.io/badge/arXiv-2504.20118-b31b1b.svg)](https://arxiv.org/abs/2504.20118) | GraphRAG for TCM. |
-| **Knowledge Selection** | <small>FlexiQA: Leveraging LLM's Evaluation Capabilities for Flexible Knowledge Selection</small> | [![ACL](https://img.shields.io/badge/ACL-EACL-red)](https://aclanthology.org/2024.findings-eacl.4/) | Flexible knowledge selection. |
-| **Historical RAG** | <small>HiRAG: A Historical Information-Driven RAG Framework for Summarization</small> | [![PMLR](https://img.shields.io/badge/PMLR-Link-blue)](https://proceedings.mlr.press/v260/zhou25a.html) | Historical info for summarization. |
-| **Uncertainty** | <small>Modeling Uncertainty and Using Post-fusion as Fallback Improves RAG</small> | [![ACL](https://img.shields.io/badge/ACL-KnowLLM-red)](https://aclanthology.org/2024.knowllm-1.7/) | Post-fusion fallback. |
-| **Context Use** | <small>Desiderata for the Context Use of Question Answering Systems</small> | [![ACL](https://img.shields.io/badge/ACL-EACL-red)](https://aclanthology.org/2024.eacl-long.47/) [![arXiv](https://img.shields.io/badge/arXiv-2311.09638-b31b1b.svg)](https://arxiv.org/abs/2311.09638) | Context use desiderata. |
-| **Doc Representations** | <small>Learning Contextualized Document Representations for Healthcare Answer Retrieval</small> | [![ACM](https://img.shields.io/badge/ACM-Link-blue)](https://dl.acm.org/doi/10.1145/3366423.3380208) [![arXiv](https://img.shields.io/badge/arXiv-2002.00835-b31b1b.svg)](https://arxiv.org/abs/2002.00835) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/sebastianarnold/CDV) | Contextualized representations. |
-| **Proprietary Data** | <small>EquinorQA: Large Language Models for Question Answering over Proprietary Data</small> | [![ECAI](https://img.shields.io/badge/ECAI-2024-blue)](https://xai.w.uib.no/files/2024/08/ECAI_2024-EquinorQA.pdf) | RAG on proprietary data. |
-| **Japanese RAG** | <small>Exploring the Role of Knowledge Graph-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs</small> | [![arXiv](https://img.shields.io/badge/arXiv-2504.10982-b31b1b.svg)](https://arxiv.org/abs/2504.10982) | KG-RAG for Japanese Medical. |
-| **Context Gen** | <small>Imagination Augmented Generation: Learning to Imagine Richer Context for Question Answering over Large Language Models</small> | [![arXiv](https://img.shields.io/badge/arXiv-2403.15268-b31b1b.svg)](https://arxiv.org/abs/2403.15268) [![OpenReview](https://img.shields.io/badge/OpenReview-Link-blue)](https://openreview.net/forum?id=S0McroVcou) | Richer context imagination. |
+| **Benchmark / Toolkit** | <small>Benchmarking Retrieval-Augmented Generation for Medicine</small> | [![ACL](https://img.shields.io/badge/ACL-Findings%202024-red)](https://aclanthology.org/2024.findings-acl.372/) [![arXiv](https://img.shields.io/badge/arXiv-2402.13178-b31b1b.svg)](https://arxiv.org/abs/2402.13178) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Teddy-XiongGZ/MedRAG) | MIRAGE benchmark and MedRAG toolkit for medical QA. |
+| **BioMed Survey** | <small>Retrieval-Augmented Generation in Biomedicine: A Survey of Technologies, Datasets, and Clinical Applications</small> | [![arXiv](https://img.shields.io/badge/arXiv-2505.01146-b31b1b.svg)](https://arxiv.org/abs/2505.01146) | Survey of biomedical RAG methods, datasets, and clinical uses. |
+| **Clinical Review** | <small>Retrieval-Augmented Generation in Medicine: A Scoping Review of Technical Implementations, Clinical Applications, and Ethical Considerations</small> | [![arXiv](https://img.shields.io/badge/arXiv-2511.05901-b31b1b.svg)](https://arxiv.org/abs/2511.05901) | Clinical applications, implementation patterns, and ethics. |
+| **Healthcare Review** | <small>Retrieval augmented generation for large language models in healthcare: A systematic review</small> | [![PubMed](https://img.shields.io/badge/PubMed-40498738-green)](https://pubmed.ncbi.nlm.nih.gov/40498738/) [![PMC](https://img.shields.io/badge/PMC-Article-blue)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12157099/) | Healthcare RAG review across retrieval, augmentation, and generation. |
+| **Meta-analysis** | <small>Retrieval-Augmented Generation and Large Language Models in Biomedicine: A Systematic Review, Meta-analysis, and Clinical Development Guidelines</small> | [![PubMed](https://img.shields.io/badge/PubMed-39812777-green)](https://pubmed.ncbi.nlm.nih.gov/39812777/) | Evidence synthesis and clinical development guidance. |
+| **MRAG Benchmark** | <small>MRAG: Benchmarking Retrieval-Augmented Generation for Bio-medicine</small> | [![arXiv](https://img.shields.io/badge/arXiv-2601.16503-b31b1b.svg)](https://arxiv.org/abs/2601.16503) | English/Chinese biomedical RAG benchmark and toolkit. |
+| **MedRGB** | <small>Comprehensive and Practical Evaluation of Retrieval-Augmented Generation Systems for Medical Question Answering</small> | [![arXiv](https://img.shields.io/badge/arXiv-2411.09213-b31b1b.svg)](https://arxiv.org/abs/2411.09213) | Tests sufficiency, integration, robustness, and noisy retrieval. |
+| **RAG Design** | <small>A Systematic Study of Retrieval Pipeline Design for Retrieval-Augmented Medical Question Answering</small> | [![arXiv](https://img.shields.io/badge/arXiv-2604.07274-b31b1b.svg)](https://arxiv.org/abs/2604.07274) | Retrieval design choices on MedQA with modest compute. |
+| **RAG Chatbots** | <small>Automated Question-Answer Generation for Evaluating RAG-based Chatbots</small> | [![ACL](https://img.shields.io/badge/ACL-CL4Health%202024-red)](https://aclanthology.org/2024.cl4health-1.25/) | Auto QA generation for healthcare RAG evaluation. |
 
----
+### Medical GraphRAG & KG-Enhanced RAG
+
+| Topic | Full Title | Resources | Notes |
+| :--- | :--- | :--- | :--- |
+| **Safe MedGraphRAG** | <small>Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation</small> | [![ACL](https://img.shields.io/badge/ACL-ACL%202025-red)](https://aclanthology.org/2025.acl-long.1381/) [![arXiv](https://img.shields.io/badge/arXiv-2408.04187-b31b1b.svg)](https://arxiv.org/abs/2408.04187) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/MedicineToken/Medical-Graph-RAG) | Triple graph construction and U-Retrieval for safer medical responses. |
+| **Healthcare Copilot** | <small>MedRAG: Enhancing Retrieval-Augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot</small> | [![arXiv](https://img.shields.io/badge/arXiv-2502.04413-b31b1b.svg)](https://arxiv.org/abs/2502.04413) [![OpenReview](https://img.shields.io/badge/OpenReview-Link-blue)](https://openreview.net/forum?id=7C6cd95qvH) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/SNOWTEAM2023/MedRAG) | Diagnostic KG reasoning with EHR retrieval and follow-up questions. |
+| **Ranking/Re-ranking** | <small>KG-Rank: Enhancing LLMs for Medical QA with Knowledge Graphs and Ranking Techniques</small> | [![ACL](https://img.shields.io/badge/ACL-BioNLP%202024-red)](https://aclanthology.org/2024.bionlp-1.13/) [![arXiv](https://img.shields.io/badge/arXiv-2403.05881-b31b1b.svg)](https://arxiv.org/abs/2403.05881) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/YangRui525/KG-Rank) | KG-based retrieval/ranking for medical QA. |
+| **Biomedical Problem Solving** | <small>KRAGEN: A Knowledge Graph-Enhanced RAG Framework for Biomedical Problem Solving Using Large Language Models</small> | [![Bioinformatics](https://img.shields.io/badge/Journal-Bioinformatics-blue)](https://academic.oup.com/bioinformatics/article/40/6/btae353/7690478) [![PubMed](https://img.shields.io/badge/PubMed-38830083-green)](https://pubmed.ncbi.nlm.nih.gov/38830083/) [![PMC](https://img.shields.io/badge/PMC-Article-blue)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11164829/) | KG + RAG + graph-of-thought prompting. |
+| **Diagnosis KG** | <small>DR.KNOWS: Leveraging Medical Knowledge Graphs Into Large Language Models for Diagnosis Prediction</small> | [![JMIR AI](https://img.shields.io/badge/JMIR-AI-blue)](https://ai.jmir.org/2025/1/e58670) [![PMC](https://img.shields.io/badge/PMC-Article-blue)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11894347/) | UMLS paths aligned with patient-specific EHR information. |
+| **Biomedical Agent** | <small>ESCARGOT: An AI Agent Leveraging LLMs, Dynamic Graph of Thoughts, and Biomedical Knowledge Graphs for Enhanced Reasoning</small> | [![Bioinformatics](https://img.shields.io/badge/Journal-Bioinformatics-blue)](https://academic.oup.com/bioinformatics/article/41/2/btaf031/7976004) [![PMC](https://img.shields.io/badge/PMC-Article-blue)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11796095/) | Agentic KG reasoning with dynamic graph-of-thoughts. |
+| **Structured Reflection** | <small>Structured Reflective Reasoning for Precise Medical Knowledge Graph Retrieval-Augmented Generation</small> | [![PubMed](https://img.shields.io/badge/PubMed-41250680-green)](https://pubmed.ncbi.nlm.nih.gov/41250680/) | Type-aware pre-anchoring and reflective KG reasoning. |
+| **KG-RAG** | <small>Knowledge Graph-extended Retrieval Augmented Generation (KG-RAG)</small> | [![arXiv](https://img.shields.io/badge/arXiv-2504.08893-b31b1b.svg)](https://arxiv.org/abs/2504.08893) [![Project](https://img.shields.io/badge/Project-Website-blue)](https://dsanmart.github.io/KG-RAG/) | KG-extended RAG with biomedical grounding potential. |
+| **TCM GraphRAG** | <small>OpenTCM: A GraphRAG-Empowered LLM-based System for Traditional Chinese Medicine</small> | [![arXiv](https://img.shields.io/badge/arXiv-2504.20118-b31b1b.svg)](https://arxiv.org/abs/2504.20118) | GraphRAG for TCM knowledge and consultation. |
+| **Japanese KG-RAG** | <small>Exploring the Role of Knowledge Graph-Based RAG in Japanese Medical Question Answering with Small-Scale LLMs</small> | [![arXiv](https://img.shields.io/badge/arXiv-2504.10982-b31b1b.svg)](https://arxiv.org/abs/2504.10982) | KG-RAG for Japanese medical QA. |
+| **Region-First** | <small>ReGraM: Region-First Knowledge Graph Reasoning for Medical QA</small> | [![arXiv](https://img.shields.io/badge/arXiv-2601.09280-b31b1b.svg)](https://arxiv.org/abs/2601.09280) | Region-first graph reasoning for medical QA. |
+
+### Clinical, EHR & Patient-Specific RAG
+
+| Topic | Full Title | Resources | Notes |
+| :--- | :--- | :--- | :--- |
+| **Heterogeneous Retrieval** | <small>ClinicalRAG: Enhancing Clinical Decision Support through Heterogeneous Knowledge Retrieval</small> | [![ACL](https://img.shields.io/badge/ACL-KnowLLM%202024-red)](https://aclanthology.org/2024.knowllm-1.6/) | Clinical decision support with heterogeneous evidence. |
+| **Factual + Conceptual** | <small>RGAR: Recurrence Generation-Augmented Retrieval for Factual-aware Medical Question Answering</small> | [![ACL](https://img.shields.io/badge/ACL-EMNLP%20Findings%202025-red)](https://aclanthology.org/2025.findings-emnlp.214/) | Iteratively combines EHR factual knowledge with corpus knowledge. |
+| **Iterative RAG** | <small>Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions</small> | [![arXiv](https://img.shields.io/badge/arXiv-2408.00727-b31b1b.svg)](https://arxiv.org/abs/2408.00727) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/Teddy-XiongGZ/MedRAG) | i-MedRAG uses follow-up queries for complex medical questions. |
+| **Literature QA** | <small>Biomedical Literature Q&A System Using Retrieval-Augmented Generation (RAG)</small> | [![arXiv](https://img.shields.io/badge/arXiv-2509.05505-b31b1b.svg)](https://arxiv.org/abs/2509.05505) | PubMed-centered biomedical literature QA. |
+| **Medical + Biology QA** | <small>MedBioRAG: Semantic Search and Retrieval-Augmented Generation with Large Language Models for Medical and Biological QA</small> | [![arXiv](https://img.shields.io/badge/arXiv-2512.10996-b31b1b.svg)](https://arxiv.org/abs/2512.10996) | Semantic and lexical search for biomedical QA. |
+| **Guideline Grounding** | <small>Refine Medical Diagnosis Using Generation Augmented Retrieval from Clinical Practice Guidelines</small> | [![arXiv](https://img.shields.io/badge/arXiv-2506.21615-b31b1b.svg)](https://arxiv.org/abs/2506.21615) | CPG-grounded diagnosis refinement. |
+| **Orthopedic Chatbot** | <small>Development and Evaluation of a Retrieval-Augmented Generation Chatbot for Orthopedic Health Information in German</small> | [![PubMed](https://img.shields.io/badge/PubMed-41134117-green)](https://pubmed.ncbi.nlm.nih.gov/41134117/) | German evidence-based orthopedic patient information. |
+| **Agentic Clinical RAG** | <small>A Self-Correcting Agentic Graph RAG for Clinical Decision Support in Hepatology</small> | [![PubMed](https://img.shields.io/badge/PubMed-41476879-green)](https://pubmed.ncbi.nlm.nih.gov/41476879/) | Self-correcting agentic GraphRAG for hepatology. |
+| **Low-Resource QA** | <small>Two-Layer RAG Framework for Low-Resource Medical QA Using Reddit Data</small> | [![Journal](https://img.shields.io/badge/Journal-JMIR-blue)](https://www.jmir.org/2025/1/e66220) | Low-resource medical QA with community data. |
+| **Nutrigenetics** | <small>A Retrieval-Augmented Generation Application for Question-Answering in Nutrigenetics</small> | [![ResearchGate](https://img.shields.io/badge/ResearchGate-Link-green)](https://www.researchgate.net/publication/383998708_Enhancing_Dietary_Supplement_Question_Answer_via_Retrieval-Augmented_Generation_RAG_with_LLM) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/johndef64/nutrig-graphrag) | Nutrigenetic GraphRAG application. |
+| **Multimodal Medical RAG** | <small>Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering</small> | [![arXiv](https://img.shields.io/badge/arXiv-2604.27724-b31b1b.svg)](https://arxiv.org/abs/2604.27724) | MED-VRAG retrieves PMC page images, tables, figures, and layouts. |
+
+### Reliability, Safety & Evaluation
+
+| Topic | Full Title | Resources | Notes |
+| :--- | :--- | :--- | :--- |
+| **Rationale-Guided** | <small>Rationale-Guided Retrieval Augmented Generation for Medical Question Answering</small> | [![ACL](https://img.shields.io/badge/ACL-NAACL%202025-red)](https://aclanthology.org/2025.naacl-long.635/) [![arXiv](https://img.shields.io/badge/arXiv-2411.00300-b31b1b.svg)](https://arxiv.org/abs/2411.00300) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/dmis-lab/RAG2) | RAG² filters distractors and uses rationales as retrieval queries. |
+| **Diagnostic Evaluation** | <small>RAG-X: Systematic Diagnosis of Retrieval-Augmented Generation for Medical Question Answering</small> | [![arXiv](https://img.shields.io/badge/arXiv-2603.03541-b31b1b.svg)](https://arxiv.org/abs/2603.03541) | Disentangles retriever vs generator errors with CUE metrics. |
+| **Contradiction-aware** | <small>Contradictions in Context: Challenges for Retrieval-Augmented Generation in Healthcare</small> | [![arXiv](https://img.shields.io/badge/arXiv-2511.06668-b31b1b.svg)](https://arxiv.org/abs/2511.06668) | Tests outdated and contradictory evidence in healthcare RAG. |
+| **RAG Certainty** | <small>RAG Certainty: Quantifying the Certainty of Context-Based Responses by LLMs</small> | [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue)](https://ieeexplore.ieee.org/document/10903445) | Certainty metric for context-grounded answers. |
+| **Confidence** | <small>Understanding the Impact of Confidence in Retrieval Augmented Generation: A Case Study in the Medical Domain</small> | [![ACL](https://img.shields.io/badge/ACL-BioNLP%202025-red)](https://aclanthology.org/2025.bionlp-1.1/) | Studies retrieval confidence and medical answer quality. |
+| **Adaptive Control** | <small>TC-RAG: Turing-Complete RAG's Case Study on Medical LLM Systems</small> | [![ACL](https://img.shields.io/badge/ACL-ACL%202025-red)](https://aclanthology.org/2025.acl-long.558/) | Memory stack, retrieval halting, and state-aware RAG control. |
+| **RAG Credibility** | <small>How Credible Is an Answer From Retrieval-Augmented LLMs?</small> | [![ACL](https://img.shields.io/badge/ACL-COLING%202025-red)](https://aclanthology.org/2025.coling-main.285/) | Credibility estimation for multi-hop QA. |
+| **Context Use** | <small>Desiderata for the Context Use of Question Answering Systems</small> | [![ACL](https://img.shields.io/badge/ACL-EACL%202024-red)](https://aclanthology.org/2024.eacl-long.47/) [![arXiv](https://img.shields.io/badge/arXiv-2311.09638-b31b1b.svg)](https://arxiv.org/abs/2311.09638) | How QA systems should use retrieved context. |
+| **Uncertainty** | <small>Modeling Uncertainty and Using Post-fusion as Fallback Improves Retrieval-Augmented Generation</small> | [![ACL](https://img.shields.io/badge/ACL-KnowLLM%202024-red)](https://aclanthology.org/2024.knowllm-1.7/) | Uncertainty-aware fallback for RAG. |
+
+### Retrieval Optimization & General RAG Methods
+
+| Topic | Full Title | Resources | Notes |
+| :--- | :--- | :--- | :--- |
+| **Omni-RAG** | <small>Towards Omni-RAG: Comprehensive Retrieval-Augmented Generation for Large Language Models in Medical Applications</small> | [![ACL](https://img.shields.io/badge/ACL-ACL%202025-red)](https://aclanthology.org/2025.acl-long.742/) | Source planning across diverse medical knowledge sources. |
+| **Adaptive RAG** | <small>Adaptive-RAG: Learning to Adapt RAG LLMs through Question Complexity</small> | [![ACL](https://img.shields.io/badge/ACL-NAACL%202024-red)](https://aclanthology.org/2024.naacl-long.389/) [![arXiv](https://img.shields.io/badge/arXiv-2403.14403-b31b1b.svg)](https://arxiv.org/abs/2403.14403) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/starsuzi/Adaptive-RAG) | Chooses retrieval strategy based on question complexity. |
+| **RAG Relevance** | <small>DR-RAG: Applying Dynamic Document Relevance to Retrieval-Augmented Generation</small> | [![arXiv](https://img.shields.io/badge/arXiv-2406.07348-b31b1b.svg)](https://arxiv.org/abs/2406.07348) | Dynamic document relevance. |
+| **Rich Queries** | <small>RichRAG: Crafting Rich Responses for Multi-faceted Queries in RAG</small> | [![ACL](https://img.shields.io/badge/ACL-COLING%202025-red)](https://aclanthology.org/2025.coling-main.750/) [![arXiv](https://img.shields.io/badge/arXiv-2406.12566-b31b1b.svg)](https://arxiv.org/abs/2406.12566) | Better responses for multi-faceted queries. |
+| **Dynamic Rank** | <small>DynRank: Improve Passage Retrieval with Dynamic Zero-Shot Prompting</small> | [![ACL](https://img.shields.io/badge/ACL-COLING%202025-red)](https://aclanthology.org/2025.coling-main.319/) [![arXiv](https://img.shields.io/badge/arXiv-2412.00600-b31b1b.svg)](https://arxiv.org/abs/2412.00600) | Dynamic zero-shot prompting for retrieval. |
+| **Answer Scent** | <small>ASRank: Zero-Shot Re-Ranking with Answer Scent for Document Retrieval</small> | [![arXiv](https://img.shields.io/badge/arXiv-2501.15245-b31b1b.svg)](https://arxiv.org/abs/2501.15245) | Zero-shot re-ranking with answer scent. |
+| **Passage Expansion** | <small>Knowledge Graph-Guided Retrieval Augmented Generation (KG²RAG)</small> | [![arXiv](https://img.shields.io/badge/arXiv-2502.06864-b31b1b.svg)](https://arxiv.org/abs/2502.06864) | KG-guided chunk expansion. |
+| **Knowledge Selection** | <small>FlexiQA: Leveraging LLM's Evaluation Capabilities for Flexible Knowledge Selection</small> | [![ACL](https://img.shields.io/badge/ACL-EACL%202024-red)](https://aclanthology.org/2024.findings-eacl.4/) | Flexible knowledge selection before generation. |
+| **Embedding Efficiency** | <small>4-bit Quantization in Vector-Embedding for RAG</small> | [![arXiv](https://img.shields.io/badge/arXiv-2501.10534-b31b1b.svg)](https://arxiv.org/abs/2501.10534) [![Code](https://img.shields.io/badge/Code-GitHub-black)](https://github.com/taeheej/4bit-Quantization-in-Vector-Embedding-for-RAG) | Efficient vector embeddings for large retrieval indexes. |
+| **Low-Resource Retrieval** | <small>Unsupervised Domain Adaptation of Dense Retrieval via Zero-Shot Sim Transfer</small> | [![arXiv](https://img.shields.io/badge/arXiv-2112.07577-b31b1b.svg)](https://arxiv.org/abs/2112.07577) | Useful for low-resource biomedical or multilingual retrieval. |
+| **Context Generation** | <small>Imagination Augmented Generation: Learning to Imagine Richer Context for Question Answering over Large Language Models</small> | [![arXiv](https://img.shields.io/badge/arXiv-2403.15268-b31b1b.svg)](https://arxiv.org/abs/2403.15268) [![OpenReview](https://img.shields.io/badge/OpenReview-Link-blue)](https://openreview.net/forum?id=S0McroVcou) | Generates richer intermediate context for QA. |
 
 ## :brain: Specialized Domains (Mental Health, Finance, Legal)
 
@@ -357,6 +430,26 @@ This repository chronicles a pivotal shift in Medical AI from static **Informati
 * **The Agentic Shift:** Moving beyond passive chatbots to proactive **Copilots**. Systems like *MedAgents* and *Dr. Copilot* demonstrate that the future lies in LLMs that can plan, self-correct, and execute multi-step diagnostic workflows.
 * **Multimodal Synergy:** True clinical understanding requires seeing as well as reading. The next generation of models achieves **Multimodal Fluency**, seamlessly synthesizing pixel-level evidence (X-rays, Pathology) with textual knowledge (Guidelines, EHRs).
 * **Democratization & Safety:** As capabilities scale, so must responsibility. The focus is pivoting toward **Privacy-Preserving RAG** and **Linguistic Equity**, ensuring that life-saving AI is robust, compliant, and accessible across all languages from English to Amharic.
+
+---
+
+## :star2: Contributing & Star Guide
+
+> [!TIP]
+> **Help this list grow**
+>
+> Contributions are welcome, especially for **2025-2026 medical RAG**, **GraphRAG**, **multilingual clinical QA**, **medical safety evaluation**, and **open-source implementations**.
+
+| Contribution Type | What to Add | Preferred Evidence |
+| :--- | :--- | :--- |
+| **Paper** | Title, venue/year, arXiv/ACL/PubMed/DOI link | Peer-reviewed venue or stable preprint. |
+| **Code** | Official GitHub, HuggingFace, dataset, project page | Maintained repository or reproducible artifact. |
+| **Benchmark** | Dataset, task, metrics, leaderboard | Clear evaluation protocol and license. |
+| **Medical Safety** | Guardrails, contradiction checks, citation/grounding metrics | Human/clinical evaluation when available. |
+| **Multilingual** | Non-English datasets, models, or RAG pipelines | Language coverage and cultural/clinical relevance. |
+
+> [!NOTE]
+> If this repository helps your research, please consider giving it a ⭐ so more medical AI researchers can find it.
 
 ---
 
